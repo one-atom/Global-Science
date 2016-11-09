@@ -11,3 +11,8 @@ $python download_audio.py DirPath
 
 This can automatically process all docx file in the DirPath.
 The program will download the corresponding SS audio of each passage to the same dir and then append the original url of each passage to the end of each docx file.
+
+
+$python collect_titles.py
+
+This program will automatically collect titles of latest Sixty Second Science. One txt file with all titles in it will be generated.
